@@ -1,0 +1,2 @@
+Estou fazendo um portfólio para mostrar meus conhecimentos em Python, aqui usarei a biblioteca Pygame para fazer um jogo da cobrinha.
+Uma observação: utilizei o terminal do windows para instalar as bibliotecas.
